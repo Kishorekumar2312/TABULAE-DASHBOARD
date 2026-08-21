@@ -1,4 +1,3 @@
 # TABULAE-DASHBOARD
 Dashboard for E-commerce
-IMG-20260821-WA0002.jpg](https://github.com/user-attachments/assets/f304dacf-230a-48a1-b8e1-31c2df5f4e56)
 
